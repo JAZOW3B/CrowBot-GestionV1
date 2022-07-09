@@ -1,0 +1,42 @@
+{
+  "name": "levelbot",
+  "version": "1.0.0",
+  "description": "Leveling Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "qlf²",
+  "license": "ISC",
+  "dependencies": {
+    "@spyte-corp/discord.js-remove-on-reaction": "^1.0.5",
+    "axios": "^0.22.0",
+    "basic-ms": "^1.0.7",
+    "canvacord": "^5.2.3",
+    "discord-backup": "^2.5.0",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0",
+    "discord-logs": "^1.9.0",
+    "discord.js": "^12.5.3",
+    "discord.js-menu": "^2.3.1",
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.18.1",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "images-scraper": "^6.4.0",
+    "mathjs": "^9.5.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.0.0",
+    "quick.db": "^7.1.3",
+    "randomstring": "^1.2.1",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0",
+    "weky": "^3.1.8"
+  },
+  "script": {
+    "start": "node index.js"
+  }
+}
